@@ -2,7 +2,11 @@ hj é um novo dia
 venha que a festa é sua a festa é nossa  
 hj é dia 29/01/2026
 <<<<<<< HEAD
+<<<<<<< HEAD
 ....................
 =======
 Ontem foi meu aniversario :)
 >>>>>>> Duda
+=======
+Ontem foi meu aniversario 
+>>>>>>> Dua
