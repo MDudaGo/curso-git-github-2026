@@ -1,2 +1,2 @@
-\# CURSO  GIT AND GITHUB 2026
+\# Curso Git and GitHub 2026
 
